@@ -1,0 +1,40 @@
+{
+  "name": "wiki-storage-mongodb",
+  "description": "MongoDB storage for Federated Wiki",
+  "version": "0.0.1",
+  "author": {
+    "name": "Paul Rodwell",
+    "email": "paul.rodwell@btinternet.com",
+    "url": "http://wiki-paul90.rhcloud.com"
+  },
+  "contributors": [
+    {
+      "name": "Ward Cunningham",
+      "email": "ward@c2.com",
+      "url": "http://ward.fed.wiki.org"
+    },
+    {
+      "name": "Nick Niemeir",
+      "email": "nick.niemeir@gmail.com",
+      "url": "http://nrn.io"
+    }
+  ],
+  "dependencies": {
+    "coffee-script": "1.8",
+    "event-stream": "*",
+    "mongoskin": "~0.6"
+  },
+  "engines": {
+    "node": "0.10"
+  },
+  "testling": {
+    "harness": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fedwiki/wiki-storage-mongodb.git"
+  },
+  "bugs": {
+    "url": "https://github.com/fedwiki/wiki-storage-mongodb/issues"
+  }
+}
