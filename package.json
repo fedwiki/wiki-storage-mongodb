@@ -1,7 +1,7 @@
 {
   "name": "wiki-storage-mongodb",
   "description": "MongoDB storage for Federated Wiki",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "author": {
     "name": "Paul Rodwell",
     "email": "paul.rodwell@btinternet.com",
