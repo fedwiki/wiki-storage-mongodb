@@ -1,5 +1,11 @@
 # Wiki Storage MongoDB
 
+---
+
+**NOTE:** This datastore will not work correctly when the server is run in farm mode.
+
+---
+
 An experimental module to provide MongoDB storage for an external module for
 Federated Wiki, rather than being built into the core.
 
