@@ -21,7 +21,7 @@
   ],
   "dependencies": {
     "coffee-script": "1.8",
-    "event-stream": "*",
+    "event-stream": "3.3.4",
     "mongoskin": "~0.6"
   },
   "engines": {
